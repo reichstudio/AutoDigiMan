@@ -1,0 +1,6 @@
+interface:
+  display_name: "FeiHou MV Storyboard Prompts Free"
+  short_description: "Create H3 prompts and HTML packages from supplied timing and reference images"
+  default_prompt: "Use $feihou-mv-storyboard-prompts-free to turn my supplied song, script or lyrics, and existing reference images into a paced MiniMax H3 storyboard and three HTML production pages."
+policy:
+  allow_implicit_invocation: true

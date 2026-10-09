@@ -1,0 +1,15 @@
+{
+  "title": "项目标题",
+  "subtitle": "MUSIC VIDEO PRODUCTION PACKAGE",
+  "page_titles": {
+    "asset": "参考图片清单",
+    "h3": "MiniMax H3 全片分镜提示词",
+    "list": "分镜列表"
+  },
+  "master_audio": "",
+  "audio_references": [],
+  "master_duration_seconds": 0,
+  "performance_ratio_note": "",
+  "assets": [],
+  "shots": []
+}
