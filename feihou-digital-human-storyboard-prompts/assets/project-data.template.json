@@ -1,0 +1,27 @@
+{
+  "title": "项目标题",
+  "subtitle": "DIGITAL HUMAN PRODUCTION PACKAGE",
+  "package_mode": "digital_human",
+  "page_titles": {
+    "asset": "资产清单与生成提示词",
+    "h3": "MiniMax H3 全片分镜提示词｜数字人口播版",
+    "list": "分镜列表｜数字人口播版"
+  },
+  "audio_references": [],
+  "video_references": [],
+  "source_documents": [],
+  "production_requirements": [],
+  "locked_script_source": {
+    "kind": "document | conversation | ai_generated",
+    "path": "文档相对路径；对话或 AI 生成时留空"
+  },
+  "total_duration_seconds": 0,
+  "timing_note": "数字人分镜：每镜以 seconds 指定生成时长；range 固定为 00:00:000–00:00:000，仅供共用页面显示。",
+  "aspect_ratio": "16:9",
+  "resolution": "3840x2160",
+  "language": "中文",
+  "style_note": "写实演播室",
+  "pacing_style": "",
+  "assets": [],
+  "shots": []
+}

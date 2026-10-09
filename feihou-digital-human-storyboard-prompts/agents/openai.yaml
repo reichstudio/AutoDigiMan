@@ -1,0 +1,6 @@
+interface:
+  display_name: "FeiHou Digital Human Storyboard Prompts"
+  short_description: "Create H3 prompts, presenter asset supplementation, and digital-human HTML packages from locked scripts"
+  default_prompt: "Use $feihou-digital-human-storyboard-prompts to turn my locked script and presenter reference images into a speech-paced MiniMax H3 storyboard, GPT Image 2 asset prompts, and production HTML pages."
+policy:
+  allow_implicit_invocation: true
